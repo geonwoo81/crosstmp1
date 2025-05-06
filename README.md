@@ -6,3 +6,4 @@
 active가 안되어있었으니 안되지
 all branch로 변경
 ruleset대신 branches로 변경
+private에서 public으로 변경
